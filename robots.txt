@@ -1,0 +1,3 @@
+Sitemap: http://www.cspconference.org/sitemap.xml
+
+User-agent: *
