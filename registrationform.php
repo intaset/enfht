@@ -45,7 +45,7 @@ Thank you for registering for ENFHT 2018. If you have requested any official let
 
 If you are an author, please make sure to send us your the final version of your paper and a signed copyright form via email to info@enfht.com. You can find the copyright form here: www.enfht.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: www.enfht.com/accommodation/#0
+To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: www.enfht.com/accommodation/#Novotel
 
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@enfht.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
@@ -317,34 +317,18 @@ mail($your_email,$your_subject,$message,$your_headers);
           </div>
         </div>
       </section>
-    <h2>Upcoming Dates</h2>
+   <h2>Upcoming Dates</h2>
 
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <div class="past">Feb. 10, 2017</div> Mar. 3, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Oct. 12, 2017
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <div class="past past-text">Final Regular Registration</div> Extended Regular Registration
-  </div>
-</div>
-</div>
-
-
-<div class="grid events">
-<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
-  <div class="date">
-    <!-- <div class="past">Dec. 10, 2016</div> --> After March 3, 2017
-  </div>
-</div>
-
-<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
-  <div class="unit-spacer">
-    <!-- <div class="past past-text">Notification of Authors</div> -->
-   Late Registration
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Paper Submission Deadline
   </div>
 </div>
 </div>
@@ -352,14 +336,27 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 01, 2017</div>--> April 6, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Nov. 2, 2017
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <!-- <div class="past past-text">Final Version of Accepted Submissions Deadline</div>  -->
-    First Day of the Conference
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Notification to Authors
+  </div>
+</div>
+</div>
+
+<div class="grid events">
+<div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
+  <div class="date">
+    <!-- <div class="past">Feb. 10, 2017</div> --> Nov. 16, 2017
+  </div>
+</div>
+
+<div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
+  <div class="unit-spacer">
+    <!-- <div class="past past-text">Final Regular Registration</div>  -->Early-Bird Registration
   </div>
 </div>
 </div>
